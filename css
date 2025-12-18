@@ -1,0 +1,140 @@
+﻿@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw3aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w3aX8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VKmmY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113VammY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA12pVammY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA133VammY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA13FVammY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10pUqmmY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA10QUqmmY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA113UqmmY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xtDF02iFML4hGCyMqgdyNEf6or5L2WA11eUqmmY8U.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx8vH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSx4vH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDlR4vH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqD-R4vH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDFRkvH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDLBkvH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDSxkvH5mv.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/urbanist/v15/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDYhkvH5mv.ttf) format('truetype');
+}
