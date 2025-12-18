@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>booking-calendar</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="booking-calendar" transform="translate(0.000000, -0.000000)" fill="#C7C9CD" fill-rule="nonzero">
+            <path d="M12,1.5 C12.8199908,1.5200215 13.4799785,2.18000921 13.5,3 L13.5,13.5 C13.4799785,14.3199908 12.8199908,14.9799785 12,15 L1.5,15 C1.10096668,15.0111201 0.717142931,14.8466242 0.45,14.55 C0.165618303,14.2742626 0.00354661866,13.8960953 1.13686838e-13,13.5 L1.13686838e-13,3 C0.0200214954,2.18000921 0.680009212,1.5200215 1.5,1.5 L2.25,1.5 L2.25,-6.82121026e-13 L3.75,-6.82121026e-13 L3.75,1.5 L9.75,1.5 L9.75,-6.82121026e-13 L11.25,-6.82121026e-13 L11.25,1.5 L12,1.5 Z M12,13.5 L12,5.25 L1.5,5.25 L1.5,13.5 L12,13.5 Z M3,6.75 L6.75,6.75 L6.75,10.5 L3,10.5 L3,6.75 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
